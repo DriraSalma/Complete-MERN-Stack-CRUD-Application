@@ -17,4 +17,5 @@ This project is a full-stack CRUD application built with:
 
 ```bash
 npm install
-npm start
+npm run dev
+
